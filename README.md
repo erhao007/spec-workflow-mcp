@@ -81,6 +81,7 @@ Simply mention spec-workflow in your conversation:
 - **"Execute task 1.2 in spec user-auth"** - Runs a specific task
 
 [See more examples →](docs/PROMPTING-GUIDE.md)
+[MCP Commands Reference →](docs/MCP-COMMANDS-REFERENCE.md) - Comprehensive documentation of all MCP commands and tools
 
 ## 🔧 MCP Client Setup
 

@@ -99,6 +99,13 @@ Tasks are organized hierarchically:
   - **1.2** - Subtasks
     - **1.2.1** - Detailed steps
 
+## Reference Documents
+
+For detailed information about all available MCP commands and tools:
+
+- [MCP Commands Reference](./MCP-COMMANDS-REFERENCE.md) - Comprehensive documentation of all MCP commands and their usage
+- [Tools Reference](./TOOLS-REFERENCE.md) - Details about all technical tools provided by Spec Workflow MCP
+
 ### Implementing Tasks
 
 #### Method 1: Direct Implementation
